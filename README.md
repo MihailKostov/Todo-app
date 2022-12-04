@@ -2,7 +2,7 @@
 
 The link for the [preview](https://mihailkostov.github.io/Todo-app/)
 
-The project is made by using:
+The project is made on React by using:
  - Typescript
  - Javascript
  - SCSS
